@@ -92,7 +92,7 @@ This project simulates a real-world analytics task a business analyst might perf
 
 ---
 
-- LinkedIn: [Elvis Mwangi](www.linkedin.com/in/elvismwangi)  
+- LinkedIn:[Elvis Mmwangi](https://www.linkedin.com/in/elvis-mwangi-b41a84277/)  
 - Email: elmwawaceke98@gmail.com  
 
 
