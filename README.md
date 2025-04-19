@@ -15,9 +15,7 @@ This project features an interactive **Power BI dashboard** built to analyze Net
 ---
 
 ## Dataset Overview
-
-![netflix dash](https://github.com/user-attachments/assets/b2bcf742-ac45-406f-99fe-f330f3c594a2)
-
+**Source:** [Netflix Shows Dataset on Kaggle](https://www.kaggle.com/datasets)
 
 **Fields:**
 
